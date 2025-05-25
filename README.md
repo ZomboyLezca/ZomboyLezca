@@ -36,7 +36,9 @@ I'm passionate about creating digital experiences that are not only functional b
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/ZomboyLezca"><img src="https://github-readme-stats.vercel.app/api?username=ZomboyLezca&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="ZomboyLezca's GitHub stats" /></a><a
-                      href="http://www.github.com/ZomboyLezca"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=ZomboyLezca&stroke=ec4899&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ec4899&currStreakLabel=ec4899&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a><a href="https://github.com/ZomboyLezca" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZomboyLezca&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Badges
+<b>
+My GitHub Stats
+</b>
+<a href="http://www.github.com/ZomboyLezca"><img src="https://github-readme-stats.vercel.app/api?username=ZomboyLezca&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="ZomboyLezca's GitHub stats" /></a><a href="http://www.github.com/ZomboyLezca"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZomboyLezca&stroke=ec4899&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ec4899&currStreakLabel=ec4899&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a><a href="https://github.com/ZomboyLezca" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZomboyLezca&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
